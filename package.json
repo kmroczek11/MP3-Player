@@ -1,0 +1,25 @@
+{
+  "name": "mp3-player",
+  "version": "1.0.0",
+  "description": "Odtwarzacz muzyki.",
+  "main": "server.js",
+  "dependencies": {
+    "prettysize": "^2.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmroczek11/MP3-Player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmroczek11/MP3-Player/issues"
+  },
+  "homepage": "https://github.com/kmroczek11/MP3-Player#readme"
+}
